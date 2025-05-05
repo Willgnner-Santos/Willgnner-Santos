@@ -43,7 +43,7 @@
 - [⚖️ DPE-Legal-Doc-Classification-Pipeline](https://github.com/Willgnner-Santos/DPE-Legal-Doc-Classification-Pipeline)  
 - [💡 PublicLight-Automaton](https://github.com/Willgnner-Santos/PublicLight-Automaton)  
 - [🚌 PublicTransportAI](https://github.com/Willgnner-Santos/PublicTransportAI)  
-- [🏛️ IT-Residence](https://github.com/Willgnner-Santos/IT-Residence)
+- [🏛️ IT-Residence](https://github.com/Willgnner-Santos/IT-Residence)  
 - 🔗 [Veja todos os meus projetos no GitHub](https://github.com/Willgnner-Santos?tab=repositories)
 
 ---
@@ -54,10 +54,4 @@
   <a href="https://www.linkedin.com/in/willgnner-ferreira-santos-20bb6a17a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:eng.willgnner@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/willgnner/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
