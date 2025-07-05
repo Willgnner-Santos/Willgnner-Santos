@@ -15,17 +15,31 @@
 - 📂 Coordenador de Gestão de Projetos no Instituto Anexo de Tecnologia  
 - 🏛️ Residente em Tecnologia da Informação no Tribunal de Justiça do Estado de Goiás (TJGO)  
 - 👨‍🏫 Docente de Nível Superior na Faculdade SENAI FATESG  
-- 🔬 Pesquisador no Núcleo de Estudos, Pesquisa e Extensão (NEPE) da FATESG
+- 🔬 Cientista de Dados e Pesquisador no Núcleo de Estudos, Pesquisa e Extensão (NEPE), atuando no Núcleo de Inteligência Artificial Aplicada (NIAA) da Fatesg
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
 <p>
+  <!-- Linguagens e Frameworks -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+  <!-- Inteligência Artificial e Ciência de Dados -->
+  <img src="https://img.shields.io/badge/Ciência%20de%20Dados-FF1493?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mineração%20de%20Dados-8B0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA%20Generativa-4B0082?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PLN-006400?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge&logo=llama&logoColor=white"/>
+ 
+  <!-- Business Intelligence e Visualização -->
+  <img src="https://img.shields.io/badge/Business%20Intelligence-1E90FF?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Qlik%20Sense-009846?style=for-the-badge&logo=qlik&logoColor=white"/>
+  
 </p>
 
 ---
@@ -41,9 +55,9 @@
 ## 📂 Projetos Destacados
 
 - [⚖️ DPE-Legal-Doc-Classification-Pipeline](https://github.com/Willgnner-Santos/DPE-Legal-Doc-Classification-Pipeline)  
-- [💡 PublicLight-Automaton](https://github.com/Willgnner-Santos/PublicLight-Automaton)  
-- [🚌 PublicTransportAI](https://github.com/Willgnner-Santos/PublicTransportAI)  
-- [🏛️ IT-Residence](https://github.com/Willgnner-Santos/IT-Residence)  
+- [🚌 PublicTransportAI](https://github.com/Willgnner-Santos/PublicTransportAI)
+- [💻 ResNet34-PetriSegmentation](https://github.com/Willgnner-Santos/ResNet34-PetriSegmentation)
+
 - 🔗 [Veja todos os meus projetos no GitHub](https://github.com/Willgnner-Santos?tab=repositories)
 
 ---
